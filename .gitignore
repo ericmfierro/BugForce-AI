@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+.streamlit/secrets.toml
+.local/
+*.pyc
+.DS_Store
+.env.*
+venv/
+*.db
+*.sqlite
+*.sqlite3
+*.mp4
+*.zip
